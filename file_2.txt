@@ -1,1 +1,1 @@
-this is file 2 for branch_1
+this is file 2 contents for the branch_1
