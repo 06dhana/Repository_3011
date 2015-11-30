@@ -1,1 +1,1 @@
-this is file 3 of the branch_2
+the content of the file 3 has been changed for the branch 3
